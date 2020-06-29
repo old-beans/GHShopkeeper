@@ -234,5 +234,5 @@ async def loserep(ctx):
     sh_ref_values.update('E2', discount)
     await ctx.send(f"Wyld Stallyns Reputation: {reputation}.....Discount: {discount}")
 
-client.run('NzEzMDk1NjgwMzQzOTMyOTg4.Xuw6KQ.77mANY8h54vwkuJbQX1jq07KQVw')
+client.run('XXXX')
 #How can I keep the token discreet?
